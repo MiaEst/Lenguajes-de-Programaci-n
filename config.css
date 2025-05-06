@@ -1,0 +1,26 @@
+/*Variables globales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+hmtl {
+    font-size: 10px;
+    font-family: monospace;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    width: 100%;
+    height: 100vh;
+    max-width: 30rem;
+    padding: 1rem;
+}
+section {
+    background-color: beige;
+    width: 100%;
+    height: 100vh;
+}
