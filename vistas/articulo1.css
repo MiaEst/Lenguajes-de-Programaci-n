@@ -1,0 +1,12 @@
+.articulo1{
+    font-size: 15px;
+    padding: 2rem;
+    color: rgb(109, 109, 31);
+}
+.imghtml {
+    height: 20rem;
+    justify-content: flex-end;
+    gap: 10rem;
+    float: left;
+    padding: 15px;
+}
