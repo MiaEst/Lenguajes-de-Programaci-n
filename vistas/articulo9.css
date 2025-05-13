@@ -1,0 +1,17 @@
+.articulo9{
+    font-size: 15px;
+    padding: 2rem;
+    color: rgb(109, 109, 31);
+}
+.imgc3{
+    height: 20rem;
+    gap: 10rem;
+    float: left;
+    padding: 15px;
+}
+.imgc33{
+    height: 20rem;
+    gap: 10rem;
+    float: right;
+    padding: 15px;
+}
