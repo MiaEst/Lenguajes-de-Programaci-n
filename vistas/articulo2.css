@@ -1,0 +1,17 @@
+.articulo2 {
+    font-size: 15px;
+    padding: 2rem;
+    color: rgb(109, 109, 31);
+}
+.imgcss {
+    height: 20rem;
+    gap: 10rem;
+    float: right;
+    padding: 15px;
+}
+.imgcss2 {
+    height: 20rem;
+    gap: 10rem;
+    float: left;
+    padding: 15px;
+}
