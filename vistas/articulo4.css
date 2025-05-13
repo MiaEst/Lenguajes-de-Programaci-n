@@ -1,0 +1,11 @@
+.articulo4 {
+    font-size: 15px;
+    padding: 2rem;
+    color: rgb(109, 109, 31);
+}
+.imgsql{
+    height: 25rem;
+    gap: 10rem;
+    float: right;
+    padding: 15px;
+}
